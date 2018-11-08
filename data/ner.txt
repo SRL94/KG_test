@@ -1,0 +1,5 @@
+Hood: PERSON
+North: LOCATION
+Sea: LOCATION
+artist: TITLE
+once: DATE
